@@ -1,4 +1,5 @@
 Create 3 Ubuntu Linux Systems in AWS Execute following commands
+lavy
 
 #!/bin/bash
 
