@@ -28,7 +28,9 @@ docker swarm init  --listen-addr=eth0 --advertise-addr $(curl http://169.254.169
 
 
 docker swarm join-token worker (Get the token in manager & exeute in nodes)
-docker swarm join --token SWMTKN-1-4osa2e5r39pwj8h47dib1ijxhw4k72pgnfu349ipcedqoqns77-a8aaz3y8k4zstlky2sx85xuss 192.168.211.51:2377
+docker swarm join --token SWMTKN-1-1mbbthdnt5j2tfpwrckokiz9t23uv3ldhlza2g68lww725p33y-ebky8j0kd042y07fvpg4jyccs 192.168.211.51:2377
+
+
 
 
 
