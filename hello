@@ -34,6 +34,10 @@ docker swarm join-token worker (Get the token in manager & exeute in nodes)
 docker swarm join --token SWMTKN-1-1mbbthdnt5j2tfpwrckokiz9t23uv3ldhlza2g68lww725p33y-ebky8j0kd042y07fvpg4jyccs 192.168.211.51:2377
 
 
+docker swarm join --token SWMTKN-1-1mbbthdnt5j2tfpwrckokiz9t23uv3ldhlza2g68lww725p33y-ccmq0yjcnim7th5apcuehcn4d 192.168.211.51:2377
+
+
+
 
 
 
